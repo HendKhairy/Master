@@ -12,7 +12,7 @@ The web application displays a countdown timer, showing the time remaining until
 
 1.  **Clone the repository:**
     ```bash
-    git clone <your-repository-url>
+    git clone https://github.com/HendKhairy/Master.git
     ```
 2.  **Navigate to the project directory:**
     ```bash
